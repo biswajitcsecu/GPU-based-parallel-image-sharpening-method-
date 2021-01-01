@@ -1,1 +1,1 @@
-# GPU-based-parallel-image-sharpening-method-
+# GPU based parallel image sharpening method 
